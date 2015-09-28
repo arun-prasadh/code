@@ -1,0 +1,6 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+ printf("I am doing Coding");//TO print in console screen
+}
